@@ -81,6 +81,7 @@ deleted on the server.
 Make sure to include the **id** of the question you're trying to delete in your
 request's url!
 
+
 ### PATCH /questions/:id
 
 When the user clicks the 'View Questions' button, a list of all the questions
